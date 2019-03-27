@@ -1,0 +1,28 @@
+클래스 내부에
+
+필드를 조작할려 할때 
+속성을 사용함.
+
+예를 들어
+private은 클래스 내부에서만 접근 가능함.
+외부로 호출이 불가능
+ 
+외부로 호출하게 만들기 위해서 
+속성 get, set을 활용
+
+if (CustomerArray[CustomerArrayIndex].Age <= 0)
+                {
+                    MessageBox.Show("현재 나이가 0살 이하일 순 없습니다.");
+                }
+                else
+                {
+                    CusFullName.Text = CustomerArray[CustomerArrayIndex].FullName;
+                    CusAge.Text = CustomerArray[CustomerArrayIndex].Age.ToString();
+                    CusAddress.Text = CustomerArray[CustomerArrayIndex].Address;
+                    CusDescription.Text = CustomerArray[CustomerArrayIndex].Description;
+                    if (CustomerArray[CustomerArrayIndex].IsQualified)
+                        CusIsQualified.Text = "가능";
+                    else CusIsQualified.Text = "불가능";
+
+                }
+

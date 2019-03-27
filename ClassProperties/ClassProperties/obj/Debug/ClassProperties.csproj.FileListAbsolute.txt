@@ -1,0 +1,10 @@
+C:\Users\kooda\source\repos\ClassProperties\ClassProperties\bin\Debug\ClassProperties.exe.config
+C:\Users\kooda\source\repos\ClassProperties\ClassProperties\bin\Debug\ClassProperties.exe
+C:\Users\kooda\source\repos\ClassProperties\ClassProperties\bin\Debug\ClassProperties.pdb
+C:\Users\kooda\source\repos\ClassProperties\ClassProperties\obj\Debug\ClassProperties.csprojAssemblyReference.cache
+C:\Users\kooda\source\repos\ClassProperties\ClassProperties\obj\Debug\ClassProperties.Properties.Resources.resources
+C:\Users\kooda\source\repos\ClassProperties\ClassProperties\obj\Debug\ClassProperties.csproj.GenerateResource.cache
+C:\Users\kooda\source\repos\ClassProperties\ClassProperties\obj\Debug\ClassProperties.csproj.CoreCompileInputs.cache
+C:\Users\kooda\source\repos\ClassProperties\ClassProperties\obj\Debug\ClassProperties.exe
+C:\Users\kooda\source\repos\ClassProperties\ClassProperties\obj\Debug\ClassProperties.pdb
+C:\Users\kooda\source\repos\ClassProperties\ClassProperties\obj\Debug\ClassProperties.Form1.resources

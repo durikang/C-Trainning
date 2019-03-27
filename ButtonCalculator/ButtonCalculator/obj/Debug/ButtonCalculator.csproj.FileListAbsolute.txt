@@ -1,0 +1,10 @@
+C:\Users\kooda\source\repos\ButtonCalculator\ButtonCalculator\bin\Debug\ButtonCalculator.exe.config
+C:\Users\kooda\source\repos\ButtonCalculator\ButtonCalculator\bin\Debug\ButtonCalculator.exe
+C:\Users\kooda\source\repos\ButtonCalculator\ButtonCalculator\bin\Debug\ButtonCalculator.pdb
+C:\Users\kooda\source\repos\ButtonCalculator\ButtonCalculator\obj\Debug\ButtonCalculator.csprojAssemblyReference.cache
+C:\Users\kooda\source\repos\ButtonCalculator\ButtonCalculator\obj\Debug\ButtonCalculator.Form1.resources
+C:\Users\kooda\source\repos\ButtonCalculator\ButtonCalculator\obj\Debug\ButtonCalculator.Properties.Resources.resources
+C:\Users\kooda\source\repos\ButtonCalculator\ButtonCalculator\obj\Debug\ButtonCalculator.csproj.GenerateResource.cache
+C:\Users\kooda\source\repos\ButtonCalculator\ButtonCalculator\obj\Debug\ButtonCalculator.csproj.CoreCompileInputs.cache
+C:\Users\kooda\source\repos\ButtonCalculator\ButtonCalculator\obj\Debug\ButtonCalculator.exe
+C:\Users\kooda\source\repos\ButtonCalculator\ButtonCalculator\obj\Debug\ButtonCalculator.pdb

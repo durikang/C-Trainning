@@ -1,0 +1,10 @@
+C:\Users\kooda\source\repos\CalculatorTrain\CalculatorTrain\bin\Debug\CalculatorTrain.exe.config
+C:\Users\kooda\source\repos\CalculatorTrain\CalculatorTrain\bin\Debug\CalculatorTrain.exe
+C:\Users\kooda\source\repos\CalculatorTrain\CalculatorTrain\bin\Debug\CalculatorTrain.pdb
+C:\Users\kooda\source\repos\CalculatorTrain\CalculatorTrain\obj\Debug\CalculatorTrain.csprojAssemblyReference.cache
+C:\Users\kooda\source\repos\CalculatorTrain\CalculatorTrain\obj\Debug\CalculatorTrain.Form1.resources
+C:\Users\kooda\source\repos\CalculatorTrain\CalculatorTrain\obj\Debug\CalculatorTrain.Properties.Resources.resources
+C:\Users\kooda\source\repos\CalculatorTrain\CalculatorTrain\obj\Debug\CalculatorTrain.csproj.GenerateResource.cache
+C:\Users\kooda\source\repos\CalculatorTrain\CalculatorTrain\obj\Debug\CalculatorTrain.csproj.CoreCompileInputs.cache
+C:\Users\kooda\source\repos\CalculatorTrain\CalculatorTrain\obj\Debug\CalculatorTrain.exe
+C:\Users\kooda\source\repos\CalculatorTrain\CalculatorTrain\obj\Debug\CalculatorTrain.pdb

@@ -1,0 +1,28 @@
+1.string.IsNullOrWhiteSpace(Sum1.Text)
+Sum1.text에 값이 없거나, 빈공간일 경우 true;
+
+
+lable 속성
+AutoSize ->false로 바꿔서 하는걸 추천.
+
+첫번째 변수=0;
+
+1.숫자입력
+ 더하기 버튼누른다->첫번째 숫자 완성, 첫번째 숫자 변수에 저장
+2.숫자 입력
+ 더하기 버튼을 누른다->
+ 숫자 완성, 변수와 숫자의 합,결과를 변수에 다시 저장
+
+
+object sender는 어느 형태로든 형변환이 가능하다.
+Button은 Button 클래스 형태이므로
+sender를 버튼 클래스로  형변환 해주기 위해서 
+Button button;
+식으로 선언해주고
+sender를 (Button)sender로 형변환 해준 후
+Button button에 참조해준다.
+그리고 클릭시마다 sender에서 호출되는 값을 
+button에 참조 해 주면 된다.
+
+
+ 
