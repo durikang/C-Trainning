@@ -17,6 +17,25 @@ namespace ClassProperties
         public string Address;
         public string Description;
 
+        private List<Pet> _MyPets = new List<Pet>();
+        public List<Pet> myPets
+        {
+            get { return _MyPets; }
+        }
+        public bool Adopt(Pet pet)
+        {
+            if (_IsQualified)
+            {
+                _MyPets.Add(pet);
+                return true;
+            }
+            else
+            {
+                return false;
+            }
+
+        }
+        
 
         public Customer(string firstname, string lastname, DateTime Birthday)
         {
